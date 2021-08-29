@@ -1,5 +1,10 @@
 import pytest
-from __init__ import Array_Sqrt
+import os
+import sys
+
+sys.path.insert(1, os.getcwd())
+
+from Code.__init__ import Array_Sqrt
 
 def test_sqrt_1():
     array = [1,4,9,16]
