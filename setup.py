@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Array_Sqrt',
-    version='0.1',
+    version='1.0.0',
     description='Function that returns the square root',
     author='Bhargav Jethwa, Mithil Dave, Nirav Patel, Parth Kanakiya, Raj Shah',
     author_email='bjethwa@ncsu.edu',
