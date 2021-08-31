@@ -14,6 +14,6 @@ Welcome to our Repo, We got what you need!
 ### User-Guide: 
 
 * [Contribution guidelines for this project](./CONTRIBUTING.md)
-* [Installed Required Modules before running] (./requirements.txt)
+* [Install Required Modules before running](./requirements.txt)
 
 
