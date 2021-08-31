@@ -16,4 +16,9 @@ Welcome to our Repo, We got what you need!
 * [Contribution guidelines for this project](./CONTRIBUTING.md)
 * [Install Required Modules before running](./requirements.txt)
 
+### Command:
+1 Initial Setup:
+```python setup.py```
 
+2 Run code:
+```python __init__.py``` 
