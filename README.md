@@ -6,7 +6,14 @@
 
 Welcome to our Repo, We got what you need!
 
-What we have?
---Array_sqrt: Find Array Square Root
+## What we have?
 
-Description of the function: Return the non-negative square-root of an array, element-wise.
+* A python function "Array_sqrt". 
+* Description: Return the non-negative square-root of an array, element-wise.
+
+### User-Guide: 
+
+* [Contribution guidelines for this project](./CONTRIBUTING.md)
+* [Installed Required Modules before running] (./requirements.txt)
+
+
