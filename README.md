@@ -1,4 +1,4 @@
-# A_Good_Repo
+# Square Root
 
 [![Build Status](https://app.travis-ci.com/Nirav1929/square_root.svg?branch=main)](https://app.travis-ci.com/Nirav1929/square_root)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5304865.svg)](https://doi.org/10.5281/zenodo.5304865)
@@ -6,7 +6,7 @@
 
 Welcome to our Repo, We got what you need!
 
-## What we have?
+## What do we have?
 
 * A python function "Array_sqrt". 
 * Description: Return the non-negative square-root of an array, element-wise.
